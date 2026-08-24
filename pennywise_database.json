@@ -1,0 +1,10 @@
+{
+    "expenses": [
+        {
+            "name": "jkk",
+            "amount": 90.0,
+            "category": "Food"
+        }
+    ],
+    "trip_costs": {}
+}
